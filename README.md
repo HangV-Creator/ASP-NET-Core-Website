@@ -1,5 +1,12 @@
-Project Name: ASP.NET Core Website.  
+# ASP.NET Core Greeting System
 
-Core Logic: Dynamic greetings based on system time.  
+## Project Purpose
+A web application demonstrating C# backend integration with a responsive Bootstrap frontend.
 
-Styling: Responsive Bootstrap Grid
+## Technical Implementation
+* **Model-View-Controller (MVC) Pattern:** Organized into folders for professional scalability.
+* **Dynamic Logic:** `GreetingController.cs` processes system time to deliver personalized user greetings.
+* **Responsive UI:** Built with a Bootstrap 5 grid to ensure mobile and desktop compatibility.
+
+## Project Management
+Developed following the phased roadmap (UI, C# Logic, Testing) established in the initial project planning.
